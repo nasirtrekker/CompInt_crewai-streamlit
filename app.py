@@ -162,7 +162,7 @@ if __name__ == "__main__":
     # Main Streamlit UI setup
     icon("🧑‍💼 **CompintAnalyst**")
 
-    st.subheader("A Company Analysis Tool for Curious Investors",
+    st.subheader("Comptetitive Intelligence Analyst",
                  divider="violet", anchor=False)
     
     # Set up the Streamlit UI customization sidebar
