@@ -1,6 +1,6 @@
 # finbot-crewai-streamlit
 
-deployed at https://finbot-crewai.streamlit.app/
+deployed at https://compintpowertools.streamlit.app/ 
 
 environment variables needed:
 
