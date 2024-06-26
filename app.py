@@ -157,7 +157,7 @@ def icon(emoji: str):
 if __name__ == "__main__":
     #weave.init('finbot-crewai-streamlit')
 
-    st.set_page_config(page_title="Finbot", page_icon="🧑‍💼", layout="wide")
+    st.set_page_config(page_title="CompintAnalyst", page_icon="🧑‍💼", layout="wide")
 
     # Main Streamlit UI setup
     icon("🧑‍💼 **CompintAnalyst**")
