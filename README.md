@@ -1,4 +1,4 @@
-# finbot-crewai-streamlit
+# CompInt-crewai-streamlit
 
 deployed at https://compintpowertools.streamlit.app/ 
 
